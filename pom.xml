@@ -73,6 +73,8 @@
             <artifactId>mysql-connector-java</artifactId>
             <scope>runtime</scope>
         </dependency>
+        <!-- mapstruct -->
+        <!-- http://www.kailing.pub/MapStruct1.3/index.html -->
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
